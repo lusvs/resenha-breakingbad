@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+@font-face {
+    font-family: raque;
+    src: url('Raque Demo.ttf');
+}
+
+header{
+    font-size: 25px;
+    background-image: linear-gradient(to right, black, green,  #838667);
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 5px 5px 5px black;
+}
+
+body{   
+background-image: linear-gradient(to bottom, #1A1F04, #B6AE1D,#BFC493);
+}
+
+h2{
+font-family: raque;
+color: aliceblue;
+text-shadow: 5px 5px 5px black;
+margin: 10px;
+font-size: 35px;
+}
+
+p{
+font-family: Pangolin;
+font-size: 20px;
+text-indent: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+nav img{
+padding-left: 50px;
+}
+
+.f1{
+margin-top: 40px;
+margin-bottom: 40px;
+text-align: center;
+}
+
+.f2{  
+margin-top: 10px;
+margin-bottom: 30px;
+text-align: center;
+}
+
+.f3{
+margin-top: 50px;
+margin-bottom: 30px;
+text-align: center;
+}
+
+footer{
+text-align: center;
+font-weight: bold;
+background-color: aliceblue;
+}
