@@ -1,2 +1,2 @@
 # resenha-breakingbad
-Site que fiz para um trabalho da escola.
+WebSite informativo criado para um trabalho escolar, contendo algumas curiosidades do universo de Breaking Bad.
